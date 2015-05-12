@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+    <head>Leaf Subscriptions</head>
+    <body>
+        <outline title="Amazon pricechange" xmlUrl="http://camelcamelcamel.com/alerts/c7baf59bada5e609e757f5db0cb69ad640a32629.xml" type="rss" text="Amazon pricechange"/>
+        <outline title="Slashdot RSS" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" text="Slashdot RSS"/>
+        <outline title="Sharon Lee, Writer RSS Feed" xmlUrl="http://sharonleewriter.com/feed/" type="rss" text="Sharon Lee, Writer RSS Feed"/>
+        <outline title="Slate Star Codex » Feed" xmlUrl="http://slatestarcodex.com/feed/" type="rss" text="Slate Star Codex » Feed"/>
+        <outline title="Ask a Manager » Feed" xmlUrl="http://www.askamanager.org/feed" type="rss" text="Ask a Manager » Feed"/>
+        <outline title="Explore Mars" xmlUrl="http://www.exploremars.org/feed" type="rss" text="Explore Mars"/>
+        <outline title="InnoCentive Blog RSS2 Feed" xmlUrl="http://www.innocentive.com/blog/feed/" type="rss" text="InnoCentive Blog RSS2 Feed"/>
+        <outline title="The Planetary Society Blog Feed" xmlUrl="http://www.planetary.org/system/rss/channel.jsp?feedID=328434498" type="rss" text="The Planetary Society Blog Feed"/>
+        <outline title="Society of Amateur Radio Astronomers RSS" xmlUrl="http://www.radio-astronomy.org/rss.xml" type="rss" text="Society of Amateur Radio Astronomers RSS"/>
+        <outline title="SMBC" xmlUrl="http://www.smbc-comics.com/rss.php" type="rss" text="SMBC"/>
+        <outline title="Z comments" xmlUrl="http://zackmdavis.net/blog/comments/feed/" type="rss" text="Z comments"/>
+        <outline title="Z blog" xmlUrl="http://zackmdavis.net/blog/feed/" type="rss" text="Z blog"/>
+        <outline title="Dr. Jen Gunter » Feed" xmlUrl="https://drjengunter.wordpress.com/feed/" type="rss" text="Dr. Jen Gunter » Feed"/>
+        <outline title="Wiki New" xmlUrl="https://en.wikipedia.org/w/index.php?title=Special:NewPages&amp;feed=atom&amp;hideredirs=1&amp;limit=50&amp;offset=&amp;namespace=0&amp;username=&amp;tagfilter=" type="rss" text="Wiki New"/>
+        <outline title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" type="rss" text="Krebs on Security"/>
+        <outline title="NASA reddit" xmlUrl="https://www.reddit.com/r/nasa/.rss" type="rss" text="NASA reddit"/>
+        <outline title="XKCD" xmlUrl="https://xkcd.com/rss.xml" type="rss" text="XKCD"/>
+    </body>
+</opml>
