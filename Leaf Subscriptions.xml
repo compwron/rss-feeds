@@ -31,9 +31,9 @@
             <outline title="CrashCourse" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q" type="rss" text="CrashCourse"/>
         </outline>
         <outline title="people">
+            <outline title="Slate Star Codex" xmlUrl="http://slatestarcodex.com/feed/" type="rss" text="Slate Star Codex"/>
             <outline title="Elizabeth Bear" xmlUrl="http://matociquala.livejournal.com/data/rss" type="rss" text="Elizabeth Bear"/>
             <outline title="Sharon Lee, Writer RSS Feed" xmlUrl="http://sharonleewriter.com/feed/" type="rss" text="Sharon Lee, Writer RSS Feed"/>
-            <outline title="Slate Star Codex » Feed" xmlUrl="http://slatestarcodex.com/feed/" type="rss" text="Slate Star Codex » Feed"/>
             <outline title="Ask a Manager » Feed" xmlUrl="http://www.askamanager.org/feed" type="rss" text="Ask a Manager » Feed"/>
             <outline title="ILONA ANDREWS » Feed" xmlUrl="http://www.ilona-andrews.com/feed/" type="rss" text="ILONA ANDREWS » Feed"/>
             <outline title="Z comments" xmlUrl="http://zackmdavis.net/blog/comments/feed/" type="rss" text="Z comments"/>
@@ -68,7 +68,7 @@
             <outline title="Science News" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss" type="rss" text="Science News"/>
             <outline title="Science Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow" type="rss" text="Science Podcast"/>
         </outline>
-        <outline title="zCS">
+        <outline title="CS">
             <outline title="Billsup Blog - RSS" xmlUrl="http://billsup.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Billsup Blog - RSS"/>
             <outline title="TechNet Blogs" xmlUrl="http://blogs.technet.com/b/mainfeed.aspx?Type=BlogsOnly" type="rss" text="TechNet Blogs"/>
             <outline title="Communications of the ACM:  News" xmlUrl="http://cacm.acm.org/news.rss" type="rss" text="Communications of the ACM:  News"/>
