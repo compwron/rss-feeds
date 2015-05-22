@@ -2,8 +2,13 @@
 <opml version="1.0">
     <head>Leaf Subscriptions</head>
     <body>
+        <outline title="Straight Talk Blog - Join The Conversation" xmlUrl="http://community.ally.com/straight-talk/feed/" type="rss" text="Straight Talk Blog - Join The Conversation"/>
+        <outline title="Tom Adams' Blog" xmlUrl="http://tadams289.blogspot.com/feeds/comments/default" type="rss" text="Tom Adams' Blog"/>
+        <outline title="Tom Adams' Blog" xmlUrl="http://tadams289.blogspot.com/feeds/posts/default" type="rss" text="Tom Adams' Blog"/>
         <outline title="Subscribe to WebScriptions News" xmlUrl="http://www.baenebooks.com/rssfeed.aspx?channel=news" type="rss" text="Subscribe to WebScriptions News"/>
+        <outline title="BillSchofield's Activity" xmlUrl="https://github.com/BillSchofield.atom" type="rss" text="BillSchofield's Activity"/>
         <outline title="Tech@FTC Blog Posts" xmlUrl="https://www.ftc.gov/feeds/blog-techftc.xml" type="rss" text="Tech@FTC Blog Posts"/>
+        <outline title="RSS" xmlUrl="https://www.reddit.com/r/personalfinance/.rss" type="rss" text="RSS"/>
         <outline title="business">
             <outline title="Bankrate.com: Today's new stories Headlines" xmlUrl="http://www.bankrate.com/syndication/Bankrate_TodaysStories.xml" type="rss" text="Bankrate.com: Today's new stories Headlines"/>
             <outline title="Business Blog Posts" xmlUrl="https://www.ftc.gov/feeds/blog-business.xml" type="rss" text="Business Blog Posts"/>
@@ -56,7 +61,7 @@
             <outline title="LinkedIn Engineering RSS" xmlUrl="https://engineering.linkedin.com/rss.xml" type="rss" text="LinkedIn Engineering RSS"/>
             <outline title="AWS Official Blog" xmlUrl="https://feeds.feedburner.com/AmazonWebServicesBlog" type="rss" text="AWS Official Blog"/>
             <outline title="YouTube Engineering and Developers Blog" xmlUrl="https://feeds.feedburner.com/YouTubeEngDevBlog" type="rss" text="YouTube Engineering and Developers Blog"/>
-            <outline title="Agile Blog" xmlUrl="https://feeds.feedburner.com/agilebits" type="rss" text="Agile Blog"/>
+            <outline title="AgileBits" xmlUrl="https://feeds.feedburner.com/agilebits" type="rss" text="AgileBits"/>
             <outline title="Google" xmlUrl="https://feeds.feedburner.com/blogspot/MKuf" type="rss" text="Google"/>
             <outline title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" type="rss" text="Krebs on Security"/>
             <outline title="SwiftStack » Feed" xmlUrl="https://swiftstack.com/blog/feed/" type="rss" text="SwiftStack » Feed"/>
@@ -92,7 +97,6 @@
             <outline title="Z blog" xmlUrl="http://zackmdavis.net/blog/feed/" type="rss" text="Z blog"/>
             <outline title="Dr. Jen Gunter" xmlUrl="https://drjengunter.wordpress.com/feed/" type="rss" text="Dr. Jen Gunter"/>
             <outline title="Topher" xmlUrl="https://feeds.feedburner.com/patheos/hallq" type="rss" text="Topher"/>
-            <outline title="coderanger's Activity" xmlUrl="https://github.com/coderanger.atom" type="rss" text="coderanger's Activity"/>
             <outline title="zackmdavis's Activity" xmlUrl="https://github.com/zackmdavis.atom" type="rss" text="zackmdavis's Activity"/>
         </outline>
         <outline title="rational">
