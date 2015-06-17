@@ -2,6 +2,13 @@
 <opml version="1.0">
     <head>Leaf Subscriptions</head>
     <body>
+        <outline title="authors">
+            <outline title="Elizabeth Bear" xmlUrl="http://matociquala.livejournal.com/data/rss" type="rss" text="Elizabeth Bear"/>
+            <outline title="Sharon Lee" xmlUrl="http://sharonleewriter.com/feed/" type="rss" text="Sharon Lee"/>
+            <outline title="Ask a Manager" xmlUrl="http://www.askamanager.org/feed" type="rss" text="Ask a Manager"/>
+            <outline title="Ilona Andrews" xmlUrl="http://www.ilona-andrews.com/feed/" type="rss" text="Ilona Andrews"/>
+            <outline title="Dr. Jen Gunter" xmlUrl="https://drjengunter.wordpress.com/feed/" type="rss" text="Dr. Jen Gunter"/>
+        </outline>
         <outline title="business / finance / gov">
             <outline title="gov national archives" xmlUrl="http://aotus.blogs.archives.gov/feed/" type="rss" text="gov national archives"/>
             <outline title="Straight Talk Blog - Join The Conversation" xmlUrl="http://community.ally.com/straight-talk/feed/" type="rss" text="Straight Talk Blog - Join The Conversation"/>
@@ -11,6 +18,7 @@
             <outline title="InnoCentive Blog RSS2 Feed" xmlUrl="http://www.innocentive.com/blog/feed/" type="rss" text="InnoCentive Blog RSS2 Feed"/>
             <outline title="Lawfare RSS" xmlUrl="http://www.lawfareblog.com/rss.xml" type="rss" text="Lawfare RSS"/>
             <outline title="Pieria Expert - Unlearning Economics" xmlUrl="http://www.pieria.co.uk/experts/Unlearning_Economics/rss.xml" type="rss" text="Pieria Expert - Unlearning Economics"/>
+            <outline title="USCIS" xmlUrl="http://www.uscis.gov/rss.xml/12355" type="rss" text="USCIS"/>
             <outline title="Social Security Matters" xmlUrl="https://feeds.feedburner.com/SocialSecurityMatters" type="rss" text="Social Security Matters"/>
             <outline title="The GiveWell Blog » " xmlUrl="https://feeds.feedburner.com/TheGivewellBlog" type="rss" text="The GiveWell Blog » "/>
             <outline title="USA.gov" xmlUrl="https://feeds.feedburner.com/USAgov-blog" type="rss" text="USA.gov"/>
@@ -19,7 +27,6 @@
             <outline title="OFR Blog" xmlUrl="https://www.federalregister.gov/blog/feed" type="rss" text="OFR Blog"/>
             <outline title="FTC Business blog" xmlUrl="https://www.ftc.gov/feeds/blog-business.xml" type="rss" text="FTC Business blog"/>
             <outline title="FTC Press Releases" xmlUrl="https://www.ftc.gov/feeds/press-release.xml" type="rss" text="FTC Press Releases"/>
-            <outline title="best of reddit" xmlUrl="https://www.reddit.com/r/bestof/.rss" type="rss" text="best of reddit"/>
             <outline title="whitehouse" xmlUrl="https://www.whitehouse.gov/feed/blog" type="rss" text="whitehouse"/>
         </outline>
         <outline title="comics">
@@ -77,6 +84,7 @@
             <outline title="Scott Hanselman" xmlUrl="http://www.hanselman.com/blog/SyndicationService.asmx/GetRss" type="rss" text="Scott Hanselman"/>
             <outline title="Joel on Software" xmlUrl="http://www.joelonsoftware.com/rss.xml" type="rss" text="Joel on Software"/>
             <outline title="onemedical" xmlUrl="http://www.onemedical.com/blog/rss" type="rss" text="onemedical"/>
+            <outline title="opencompute" xmlUrl="http://www.opencompute.org/blog/rss" type="rss" text="opencompute"/>
             <outline title="RubyFlow" xmlUrl="http://www.rubyflow.com/rss" type="rss" text="RubyFlow"/>
             <outline title="ThoughtWorks Insights" xmlUrl="http://www.thoughtworks.com/rss/insights.xml" type="rss" text="ThoughtWorks Insights"/>
             <outline title="Yahoo Developers" xmlUrl="http://yahoodevelopers.tumblr.com/rss" type="rss" text="Yahoo Developers"/>
@@ -137,23 +145,21 @@
             <outline title="CrashCourse" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q" type="rss" text="CrashCourse"/>
         </outline>
         <outline title="people">
+            <outline title="Agenty Duck - RSS" xmlUrl="http://agentyduck.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Agenty Duck - RSS"/>
             <outline title="Egor Homakov - RSS" xmlUrl="http://homakov.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Egor Homakov - RSS"/>
-            <outline title="Elizabeth Bear" xmlUrl="http://matociquala.livejournal.com/data/rss" type="rss" text="Elizabeth Bear"/>
             <outline title="The Sakurity Blog" xmlUrl="http://sakurity.com/blog/feed.xml" type="rss" text="The Sakurity Blog"/>
-            <outline title="Sharon Lee" xmlUrl="http://sharonleewriter.com/feed/" type="rss" text="Sharon Lee"/>
+            <outline title="RSS" xmlUrl="http://scott-lynch.livejournal.com/data/rss" type="rss" text="RSS"/>
             <outline title="Slate Star Codex" xmlUrl="http://slatestarcodex.com/feed/" type="rss" text="Slate Star Codex"/>
             <outline title="Slate Star Scratchpad" xmlUrl="http://slatestarscratchpad.tumblr.com/rss" type="rss" text="Slate Star Scratchpad"/>
             <outline title="SlushPile Hell" xmlUrl="http://slushpilehell.tumblr.com/rss" type="rss" text="SlushPile Hell"/>
             <outline title="SoloPoly" xmlUrl="http://solopoly.net/feed/" type="rss" text="SoloPoly"/>
             <outline title="TA comments" xmlUrl="http://tadams289.blogspot.com/feeds/comments/default" type="rss" text="TA comments"/>
             <outline title="TA" xmlUrl="http://tadams289.blogspot.com/feeds/posts/default" type="rss" text="TA"/>
-            <outline title="Ask a Manager" xmlUrl="http://www.askamanager.org/feed" type="rss" text="Ask a Manager"/>
             <outline title="Ben Frederickson" xmlUrl="http://www.benfrederickson.com/atom.xml" type="rss" text="Ben Frederickson"/>
-            <outline title="Ilona Andrews" xmlUrl="http://www.ilona-andrews.com/feed/" type="rss" text="Ilona Andrews"/>
+            <outline title="My Meetups" xmlUrl="http://www.meetup.com/events/rss/8510556/1acac1d88c538322a6231dbeb1a8d639a041af6c/going" type="rss" text="My Meetups"/>
             <outline title="Z comments" xmlUrl="http://zackmdavis.net/blog/comments/feed/" type="rss" text="Z comments"/>
             <outline title="Z blog" xmlUrl="http://zackmdavis.net/blog/feed/" type="rss" text="Z blog"/>
             <outline title="compwron" xmlUrl="https://compwron.github.io/feed.xml" type="rss" text="compwron"/>
-            <outline title="Dr. Jen Gunter" xmlUrl="https://drjengunter.wordpress.com/feed/" type="rss" text="Dr. Jen Gunter"/>
             <outline title="Topher" xmlUrl="https://feeds.feedburner.com/patheos/hallq" type="rss" text="Topher"/>
             <outline title="Bill Schofield" xmlUrl="https://github.com/BillSchofield.atom" type="rss" text="Bill Schofield"/>
             <outline title="Popma github" xmlUrl="https://github.com/apopma.atom" type="rss" text="Popma github"/>
@@ -173,7 +179,6 @@
             <outline title="SF Beautiful » Feed" xmlUrl="http://sfbeautiful.org/feed/" type="rss" text="SF Beautiful » Feed"/>
             <outline title="sfgov" xmlUrl="http://sfgov.org/news.xml" type="rss" text="sfgov"/>
             <outline title="The Booksmith RSS" xmlUrl="http://www.booksmith.com/rss.xml" type="rss" text="The Booksmith RSS"/>
-            <outline title="My Meetups" xmlUrl="http://www.meetup.com/events/rss/8510556/1acac1d88c538322a6231dbeb1a8d639a041af6c/going" type="rss" text="My Meetups"/>
             <outline title="Muni Diaries" xmlUrl="http://www.munidiaries.com/feed/" type="rss" text="Muni Diaries"/>
             <outline title="Bay Area News" xmlUrl="http://www.sfgate.com/bayarea/feed/Bay-Area-News-429.php" type="rss" text="Bay Area News"/>
             <outline title="TheaterMania.com" xmlUrl="http://www.theatermania.com/rss.xml" type="rss" text="TheaterMania.com"/>
