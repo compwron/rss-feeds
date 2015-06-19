@@ -5,3 +5,4 @@ Stuff I will figure out how to rss later
 * https://glyph.twistedmatrix.com/
 * http://eev.ee/blog
 * https://signalvnoise.com/posts
+* http://endoflineblog.com/
