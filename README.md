@@ -6,3 +6,6 @@ Stuff I will figure out how to rss later
 * http://eev.ee/blog
 * https://signalvnoise.com/posts
 * http://endoflineblog.com/
+* lafd.org
+* http://www.industriallogic.com/blog/rss
+* http://sirupsen.com/

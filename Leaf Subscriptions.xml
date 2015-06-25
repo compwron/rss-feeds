@@ -2,7 +2,10 @@
 <opml version="1.0">
     <head>Leaf Subscriptions</head>
     <body>
+        <outline title="[ freespace ] » Blog Comments Feed" xmlUrl="http://freespace.io/blog/feed/" type="rss" text="[ freespace ] » Blog Comments Feed"/>
+        <outline title="[ freespace ] » Feed" xmlUrl="http://freespace.io/feed/" type="rss" text="[ freespace ] » Feed"/>
         <outline title="US digital">
+            <outline title="Countable News" xmlUrl="http://blog.countable.us/rss" type="rss" text="Countable News"/>
             <outline title="VA News Releases" xmlUrl="http://www.va.gov/rss/rss_PressRel.asp" type="rss" text="VA News Releases"/>
             <outline title="18F Digital Services Delivery » Feed" xmlUrl="https://18f.gsa.gov/feed/" type="rss" text="18F Digital Services Delivery » Feed"/>
             <outline title="Social Security Matters" xmlUrl="https://feeds.feedburner.com/SocialSecurityMatters" type="rss" text="Social Security Matters"/>
@@ -10,7 +13,16 @@
             <outline title="USDigitalService Medium" xmlUrl="https://medium.com/feed/@USDigitalService" type="rss" text="USDigitalService Medium"/>
             <outline title="DigitalGov" xmlUrl="https://www.digitalgov.gov/feed/" type="rss" text="DigitalGov"/>
         </outline>
+        <outline title="app academy">
+            <outline title="Popma App Academy" xmlUrl="http://appacadapopma.tumblr.com/rss" type="rss" text="Popma App Academy"/>
+            <outline title="iosoapboxer" xmlUrl="http://blog.appacademy.io/rss" type="rss" text="iosoapboxer"/>
+            <outline title="a/A student log" xmlUrl="http://iosoapboxer.tumblr.com/rss" type="rss" text="a/A student log"/>
+            <outline title="Popma github" xmlUrl="https://github.com/apopma.atom" type="rss" text="Popma github"/>
+        </outline>
         <outline title="authors">
+            <outline title="Alexander Wales » Feed" xmlUrl="http://alexanderwales.com/feed/" type="rss" text="Alexander Wales » Feed"/>
+            <outline title="Alicorn" xmlUrl="http://alicorn.elcenia.com/rss.xml" type="rss" text="Alicorn"/>
+            <outline title="Neil Gaiman's Journal - RSS" xmlUrl="http://journal.neilgaiman.com/feeds/posts/default?alt=rss" type="rss" text="Neil Gaiman's Journal - RSS"/>
             <outline title="Elizabeth Bear" xmlUrl="http://matociquala.livejournal.com/data/rss" type="rss" text="Elizabeth Bear"/>
             <outline title="Scott Lynch" xmlUrl="http://scott-lynch.livejournal.com/data/rss" type="rss" text="Scott Lynch"/>
             <outline title="Sharon Lee" xmlUrl="http://sharonleewriter.com/feed/" type="rss" text="Sharon Lee"/>
@@ -20,17 +32,20 @@
         </outline>
         <outline title="business / finance / gov">
             <outline title="gov national archives" xmlUrl="http://aotus.blogs.archives.gov/feed/" type="rss" text="gov national archives"/>
+            <outline title="Noisebridge Blog » Feed" xmlUrl="http://blog.noisebridge.net/feed/" type="rss" text="Noisebridge Blog » Feed"/>
             <outline title="Straight Talk Blog - Join The Conversation" xmlUrl="http://community.ally.com/straight-talk/feed/" type="rss" text="Straight Talk Blog - Join The Conversation"/>
-            <outline title="Consumerist" xmlUrl="http://consumerist.com/feed/" type="rss" text="Consumerist"/>
             <outline title="findlaw" xmlUrl="http://feeds.findlaw.com/FindLawCalSup" type="rss" text="findlaw"/>
             <outline title="Point of Sale News" xmlUrl="http://pointofsale.com/point-of-sale-news.html?format=feed&amp;lang=en" type="rss" text="Point of Sale News"/>
             <outline title="Southwest Airlines Investor Relations - Company Officers" xmlUrl="http://southwest.investorroom.com/company-officers?pagetemplate=rss" type="rss" text="Southwest Airlines Investor Relations - Company Officers"/>
+            <outline title="The Antiplanner » Feed" xmlUrl="http://ti.org/antiplanner/?feed=rss2" type="rss" text="The Antiplanner » Feed"/>
             <outline title="InnoCentive Blog RSS2 Feed" xmlUrl="http://www.innocentive.com/blog/feed/" type="rss" text="InnoCentive Blog RSS2 Feed"/>
             <outline title="Lawfare RSS" xmlUrl="http://www.lawfareblog.com/rss.xml" type="rss" text="Lawfare RSS"/>
             <outline title="Pieria Expert - Unlearning Economics" xmlUrl="http://www.pieria.co.uk/experts/Unlearning_Economics/rss.xml" type="rss" text="Pieria Expert - Unlearning Economics"/>
+            <outline title="Postal Regulatory Commission RSS" xmlUrl="http://www.prc.gov/rss.xml" type="rss" text="Postal Regulatory Commission RSS"/>
             <outline title="USCIS" xmlUrl="http://www.uscis.gov/rss.xml/12355" type="rss" text="USCIS"/>
             <outline title="The GiveWell Blog » " xmlUrl="https://feeds.feedburner.com/TheGivewellBlog" type="rss" text="The GiveWell Blog » "/>
             <outline title="Mr. Money Mustache" xmlUrl="https://feeds.feedburner.com/mrmoneymustache" type="rss" text="Mr. Money Mustache"/>
+            <outline title="Posts feed for Emily Oster" xmlUrl="https://fivethirtyeight.com/contributors/emily-oster/feed/" type="rss" text="Posts feed for Emily Oster"/>
             <outline title="Deeplinks" xmlUrl="https://www.eff.org/rss/updates.xml" type="rss" text="Deeplinks"/>
             <outline title="OFR Blog" xmlUrl="https://www.federalregister.gov/blog/feed" type="rss" text="OFR Blog"/>
             <outline title="FTC Business blog" xmlUrl="https://www.ftc.gov/feeds/blog-business.xml" type="rss" text="FTC Business blog"/>
@@ -40,6 +55,7 @@
         <outline title="comics">
             <outline title="Least I Could Do" xmlUrl="http://feeds.feedburner.com/LICD" type="rss" text="Least I Could Do"/>
             <outline title="Hyperbole and a Half - RSS" xmlUrl="http://hyperboleandahalf.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Hyperbole and a Half - RSS"/>
+            <outline title="Kill Six Billion Demons" xmlUrl="http://killsixbilliondemons.com/feed/" type="rss" text="Kill Six Billion Demons"/>
             <outline title="Nedroid Picture Diary 2" xmlUrl="http://nedroid.com/feed/" type="rss" text="Nedroid Picture Diary 2"/>
             <outline title="Something Positive by R.K. Milholland" xmlUrl="http://somethingpositive.net/sp.xml" type="rss" text="Something Positive by R.K. Milholland"/>
             <outline title="This Modern World" xmlUrl="http://thismodernworld.com" type="rss" text="This Modern World"/>
@@ -54,6 +70,8 @@
             <outline title="XKCD" xmlUrl="https://xkcd.com/rss.xml" type="rss" text="XKCD"/>
         </outline>
         <outline title="computer science">
+            <outline title="Posts on 'Sensemaking' (RSS 2.0)" xmlUrl="http://alexkrupp.typepad.com/sensemaking/rss.xml" type="rss" text="Posts on 'Sensemaking' (RSS 2.0)"/>
+            <outline title="Artyom" xmlUrl="http://artyom.me/feed.xml" type="rss" text="Artyom"/>
             <outline title="Billsup Blog - RSS" xmlUrl="http://billsup.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Billsup Blog - RSS"/>
             <outline title="codeship" xmlUrl="http://blog.codeship.com/feed/" type="rss" text="codeship"/>
             <outline title="blog for diff.io » Feed" xmlUrl="http://blog.diff.io/feed/" type="rss" text="blog for diff.io » Feed"/>
@@ -65,40 +83,51 @@
             <outline title="Sasha Laundy" xmlUrl="http://blog.sashalaundy.com/atom.xml" type="rss" text="Sasha Laundy"/>
             <outline title="Stack Exchange Company Blog RSS Feed" xmlUrl="http://blog.stackoverflow.com/feed/" type="rss" text="Stack Exchange Company Blog RSS Feed"/>
             <outline title="The Table XI Blog" xmlUrl="http://blog.tablexi.com/feed/" type="rss" text="The Table XI Blog"/>
+            <outline title="Triplebyte" xmlUrl="http://blog.triplebyte.com/posts.atom" type="rss" text="Triplebyte"/>
             <outline title="Windows PowerShell Blog" xmlUrl="http://blogs.msdn.com/b/powershell/rss.aspx" type="rss" text="Windows PowerShell Blog"/>
+            <outline title="Brandery RSS Feed" xmlUrl="http://brandery.org/feed/" type="rss" text="Brandery RSS Feed"/>
             <outline title="Startups feed" xmlUrl="http://clementvouillon.com/latest/rss/" type="rss" text="Startups feed"/>
             <outline title="Crashlytics Blog" xmlUrl="http://crashlytics.com/blog?format=RSS" type="rss" text="Crashlytics Blog"/>
+            <outline title="Danilenko.org" xmlUrl="http://danilenko.org/feed.xml" type="rss" text="Danilenko.org"/>
             <outline title="Foursquare Engineering Blog" xmlUrl="http://engineering.foursquare.com/feed/" type="rss" text="Foursquare Engineering Blog"/>
             <outline title="Pinterest Engineering" xmlUrl="http://engineering.pinterest.com/rss" type="rss" text="Pinterest Engineering"/>
             <outline title="Quora Engineering" xmlUrl="http://engineering.quora.com/rss" type="rss" text="Quora Engineering"/>
             <outline title="SlideShare Engineering Blog » Feed" xmlUrl="http://engineering.slideshare.net/feed/" type="rss" text="SlideShare Engineering Blog » Feed"/>
             <outline title="Yelp Product &amp; Engineering Blog" xmlUrl="http://engineeringblog.yelp.com/feed" type="rss" text="Yelp Product &amp; Engineering Blog"/>
+            <outline title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror" type="rss" text="Coding Horror"/>
             <outline title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror/" type="rss" text="Coding Horror"/>
             <outline title="Square Engineering" xmlUrl="http://feeds.feedburner.com/corner-squareup-com" type="rss" text="Square Engineering"/>
             <outline title="GitHub Engineering" xmlUrl="http://githubengineering.com/atom.xml" type="rss" text="GitHub Engineering"/>
             <outline title="Google Engineering Tools - RSS" xmlUrl="http://google-engtools.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Google Engineering Tools - RSS"/>
             <outline title="Google Developers Blog - RSS" xmlUrl="http://googledevelopers.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Google Developers Blog - RSS"/>
+            <outline title="Google Public Policy Blog - RSS" xmlUrl="http://googlepublicpolicy.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Google Public Policy Blog - RSS"/>
             <outline title="Google Research" xmlUrl="http://googleresearch.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Google Research"/>
             <outline title="Grace Hopper » Feed" xmlUrl="http://gracehopper.org/feed/" type="rss" text="Grace Hopper » Feed"/>
             <outline title="John Downey" xmlUrl="http://jtdowney.com/feed.xml" type="rss" text="John Downey"/>
             <outline title="Lambda the Ultimate - Programming Languages Weblog" xmlUrl="http://lambda-the-ultimate.org/rss.xml" type="rss" text="Lambda the Ultimate - Programming Languages Weblog"/>
             <outline title="Martin Fowler" xmlUrl="http://martinfowler.com/feed.atom" type="rss" text="Martin Fowler"/>
-            <outline title="Motherboard RSS Feed" xmlUrl="http://motherboard.vice.com/rss" type="rss" text="Motherboard RSS Feed"/>
+            <outline title="Moron Lab - RSS" xmlUrl="http://moronlab.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Moron Lab - RSS"/>
             <outline title="Airbnb Engineering" xmlUrl="http://nerds.airbnb.com/feed/" type="rss" text="Airbnb Engineering"/>
+            <outline title="Popehat » Posts by Clark Feed" xmlUrl="http://popehat.com/author/clark/feed/" type="rss" text="Popehat » Posts by Clark Feed"/>
             <outline title="Python Software Foundation News - RSS" xmlUrl="http://pyfound.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Python Software Foundation News - RSS"/>
             <outline title="Rails Refactoring Podcast" xmlUrl="http://rails-refactoring.com/podcast/rss.xml" type="rss" text="Rails Refactoring Podcast"/>
+            <outline title="the Stanographer » Feed" xmlUrl="http://stanographer.com/feed/" type="rss" text="the Stanographer » Feed"/>
+            <outline title="Tales of Timehop" xmlUrl="http://tales.timehop.com/rss" type="rss" text="Tales of Timehop"/>
             <outline title="The Netflix Tech Blog" xmlUrl="http://techblog.netflix.com/rss.xml" type="rss" text="The Netflix Tech Blog"/>
+            <outline title="TRK's blog feed" xmlUrl="http://therealkatie.net/blog/latest/feed/" type="rss" text="TRK's blog feed"/>
             <outline title="Baidu USA » Baidu Tech Blog Category Feed" xmlUrl="http://usa.baidu.com/category/baidutechblog/feed/" type="rss" text="Baidu USA » Baidu Tech Blog Category Feed"/>
             <outline title="Wark Milson" xmlUrl="http://warkmilson.com/feed.xml" type="rss" text="Wark Milson"/>
+            <outline title="paul graham" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" type="rss" text="paul graham"/>
+            <outline title="Braintree" xmlUrl="http://www.braintreepayments.com/blog/rss/" type="rss" text="Braintree"/>
             <outline title="Driven By Code » Feed" xmlUrl="http://www.drivenbycode.com/feed/" type="rss" text="Driven By Code » Feed"/>
             <outline title="eBay Tech Blog" xmlUrl="http://www.ebaytechblog.com/feed/" type="rss" text="eBay Tech Blog"/>
-            <outline title="Gamasutra.com - All Blogs" xmlUrl="http://www.gamasutra.com/blogs/rss/" type="rss" text="Gamasutra.com - All Blogs"/>
             <outline title="Greg Hendershott: Greg Hendershott" xmlUrl="http://www.greghendershott.com/feeds/all.rss.xml" type="rss" text="Greg Hendershott: Greg Hendershott"/>
             <outline title="Scott Hanselman" xmlUrl="http://www.hanselman.com/blog/SyndicationService.asmx/GetRss" type="rss" text="Scott Hanselman"/>
             <outline title="Joel on Software" xmlUrl="http://www.joelonsoftware.com/rss.xml" type="rss" text="Joel on Software"/>
-            <outline title="RSS 2.0" xmlUrl="http://www.kalzumeus.com/feed/" type="rss" text="RSS 2.0"/>
+            <outline title="Kalzumeus" xmlUrl="http://www.kalzumeus.com/feed/" type="rss" text="Kalzumeus"/>
             <outline title="onemedical" xmlUrl="http://www.onemedical.com/blog/rss" type="rss" text="onemedical"/>
             <outline title="opencompute" xmlUrl="http://www.opencompute.org/blog/rss" type="rss" text="opencompute"/>
+            <outline title="Knight-Mozilla OpenNews" xmlUrl="http://www.opennews.org/feed.xml" type="rss" text="Knight-Mozilla OpenNews"/>
             <outline title="ThoughtWorks Insights" xmlUrl="http://www.thoughtworks.com/rss/insights.xml" type="rss" text="ThoughtWorks Insights"/>
             <outline title="Yahoo Developers" xmlUrl="http://yahoodevelopers.tumblr.com/rss" type="rss" text="Yahoo Developers"/>
             <outline title="Yahoo Engineering" xmlUrl="http://yahooeng.tumblr.com/rss" type="rss" text="Yahoo Engineering"/>
@@ -109,6 +138,7 @@
             <outline title="Honeybadger.io Blog » Feed" xmlUrl="https://blog.honeybadger.io/feed/" type="rss" text="Honeybadger.io Blog » Feed"/>
             <outline title="Twitter engineering" xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" type="rss" text="Twitter engineering"/>
             <outline title="Wikimedia blog » Technology Category Feed" xmlUrl="https://blog.wikimedia.org/c/technology/feed/" type="rss" text="Wikimedia blog » Technology Category Feed"/>
+            <outline title="Dropbox Blog » Feed" xmlUrl="https://blogs.dropbox.com/dropbox/feed/" type="rss" text="Dropbox Blog » Feed"/>
             <outline title="Dropbox Tech Blog » Feed" xmlUrl="https://blogs.dropbox.com/tech/feed/" type="rss" text="Dropbox Tech Blog » Feed"/>
             <outline title="Facebook Code" xmlUrl="https://code.facebook.com/posts/rss/" type="rss" text="Facebook Code"/>
             <outline title="code.flickr.com" xmlUrl="https://code.flickr.net/feed/" type="rss" text="code.flickr.com"/>
@@ -123,11 +153,15 @@
             <outline title="YouTube Engineering and Developers Blog" xmlUrl="https://feeds.feedburner.com/YouTubeEngDevBlog" type="rss" text="YouTube Engineering and Developers Blog"/>
             <outline title="AgileBits" xmlUrl="https://feeds.feedburner.com/agilebits" type="rss" text="AgileBits"/>
             <outline title="Google" xmlUrl="https://feeds.feedburner.com/blogspot/MKuf" type="rss" text="Google"/>
+            <outline title="Industrial Logic" xmlUrl="https://feeds2.feedburner.com/IndustrialBlogic" type="rss" text="Industrial Logic"/>
             <outline title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" type="rss" text="Krebs on Security"/>
             <outline title="Let's Encrypt" xmlUrl="https://letsencrypt.org/feed.xml" type="rss" text="Let's Encrypt"/>
+            <outline title="gerstenzang" xmlUrl="https://medium.com/feed/@gerstenzang" type="rss" text="gerstenzang"/>
             <outline title="myotherpcisacloud.com" xmlUrl="https://myotherpcisacloud.com/syndication.axd" type="rss" text="myotherpcisacloud.com"/>
             <outline title="Naked Security » Feed" xmlUrl="https://nakedsecurity.sophos.com/feed/" type="rss" text="Naked Security » Feed"/>
+            <outline title="Philip's Perspective » Feed" xmlUrl="https://pcmonk.wordpress.com/feed/" type="rss" text="Philip's Perspective » Feed"/>
             <outline title="Semaphore" xmlUrl="https://semaphoreci.com/blog/feed.xml" type="rss" text="Semaphore"/>
+            <outline title="Software Carpentry" xmlUrl="https://software-carpentry.org/feed.xml" type="rss" text="Software Carpentry"/>
             <outline title="Sourceforge" xmlUrl="https://sourceforge.net/blog/feed/" type="rss" text="Sourceforge"/>
             <outline title="SwiftStack" xmlUrl="https://swiftstack.com/blog/feed/" type="rss" text="SwiftStack"/>
             <outline title="SysadminCasts" xmlUrl="https://sysadmincasts.com/feed.rss" type="rss" text="SysadminCasts"/>
@@ -145,6 +179,7 @@
         <outline title="news">
             <outline title="3D print prosthetics" xmlUrl="http://enablingthefuture.org/feed/" type="rss" text="3D print prosthetics"/>
             <outline title="Subscribe to WebScriptions News" xmlUrl="http://www.baenebooks.com/rssfeed.aspx?channel=news" type="rss" text="Subscribe to WebScriptions News"/>
+            <outline title="blog.reddit -- what's new on reddit - RSS" xmlUrl="http://www.redditblog.com/feeds/posts/default?alt=rss" type="rss" text="blog.reddit -- what's new on reddit - RSS"/>
             <outline title="Wiki today" xmlUrl="https://feeds.feedburner.com/WikipediaTodaysFeaturedArticle" type="rss" text="Wiki today"/>
             <outline title="Monday Note" xmlUrl="https://feeds2.feedburner.com/monday-note" type="rss" text="Monday Note"/>
             <outline title="538" xmlUrl="https://fivethirtyeight.com/features/feed/" type="rss" text="538"/>
@@ -157,8 +192,8 @@
         </outline>
         <outline title="people">
             <outline title="Agenty Duck - RSS" xmlUrl="http://agentyduck.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Agenty Duck - RSS"/>
-            <outline title="App Academy Student Blog" xmlUrl="http://blog.appacademy.io/rss" type="rss" text="App Academy Student Blog"/>
             <outline title="Egor Homakov - RSS" xmlUrl="http://homakov.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Egor Homakov - RSS"/>
+            <outline title="Random Swagger" xmlUrl="http://kantrn.tumblr.com/rss" type="rss" text="Random Swagger"/>
             <outline title="The Sakurity Blog" xmlUrl="http://sakurity.com/blog/feed.xml" type="rss" text="The Sakurity Blog"/>
             <outline title="Slate Star Codex" xmlUrl="http://slatestarcodex.com/feed/" type="rss" text="Slate Star Codex"/>
             <outline title="Slate Star Scratchpad" xmlUrl="http://slatestarscratchpad.tumblr.com/rss" type="rss" text="Slate Star Scratchpad"/>
@@ -167,13 +202,14 @@
             <outline title="TA comments" xmlUrl="http://tadams289.blogspot.com/feeds/comments/default" type="rss" text="TA comments"/>
             <outline title="TA" xmlUrl="http://tadams289.blogspot.com/feeds/posts/default" type="rss" text="TA"/>
             <outline title="Ben Frederickson" xmlUrl="http://www.benfrederickson.com/atom.xml" type="rss" text="Ben Frederickson"/>
+            <outline title="Stevie's coworking meetup" xmlUrl="http://www.meetup.com/SF-Bay-Area-Game-Jamming-Game-Design/events/rss/" type="rss" text="Stevie's coworking meetup"/>
             <outline title="My Meetups" xmlUrl="http://www.meetup.com/events/rss/8510556/1acac1d88c538322a6231dbeb1a8d639a041af6c/going" type="rss" text="My Meetups"/>
             <outline title="Z comments" xmlUrl="http://zackmdavis.net/blog/comments/feed/" type="rss" text="Z comments"/>
             <outline title="Z blog" xmlUrl="http://zackmdavis.net/blog/feed/" type="rss" text="Z blog"/>
             <outline title="compwron" xmlUrl="https://compwron.github.io/feed.xml" type="rss" text="compwron"/>
             <outline title="Topher" xmlUrl="https://feeds.feedburner.com/patheos/hallq" type="rss" text="Topher"/>
             <outline title="Bill Schofield" xmlUrl="https://github.com/BillSchofield.atom" type="rss" text="Bill Schofield"/>
-            <outline title="Popma github" xmlUrl="https://github.com/apopma.atom" type="rss" text="Popma github"/>
+            <outline title="GitHub" xmlUrl="https://github.com/fluidicon.png" type="rss" text="GitHub"/>
             <outline title="Z github" xmlUrl="https://github.com/zackmdavis.atom" type="rss" text="Z github"/>
             <outline title="Thing of Things » Feed" xmlUrl="https://thingofthings.wordpress.com/feed/" type="rss" text="Thing of Things » Feed"/>
         </outline>
@@ -181,6 +217,8 @@
             <outline title="posts from rational, HPMOR" xmlUrl="https://www.reddit.com/r/hpmor+rational.rss" type="rss" text="posts from rational, HPMOR"/>
         </outline>
         <outline title="san francisco">
+            <outline title="bayareagirlgeekdinners" xmlUrl="http://bayareagirlgeekdinners.com/feed/" type="rss" text="bayareagirlgeekdinners"/>
+            <outline title="California Academy of Sciences" xmlUrl="http://calacademy.tumblr.com/rss" type="rss" text="California Academy of Sciences"/>
             <outline title="Double Union" xmlUrl="http://doubleunion.tumblr.com/rss" type="rss" text="Double Union"/>
             <outline title="Hoodline" xmlUrl="http://feeds.hoodline.com/" type="rss" text="Hoodline"/>
             <outline title="SF Lanyrd" xmlUrl="http://lanyrd.com/places/san-francisco/feed/" type="rss" text="SF Lanyrd"/>
@@ -189,6 +227,7 @@
             <outline title="Quantum Martial Arts | SF » Feed" xmlUrl="http://quantumsf.org/feed/" type="rss" text="Quantum Martial Arts | SF » Feed"/>
             <outline title="SF Beautiful » Feed" xmlUrl="http://sfbeautiful.org/feed/" type="rss" text="SF Beautiful » Feed"/>
             <outline title="sfgov" xmlUrl="http://sfgov.org/news.xml" type="rss" text="sfgov"/>
+            <outline title="@workshopcafesf - WEBSTA" xmlUrl="http://widget.stagram.com/rss/n/workshopcafesf/" type="rss" text="@workshopcafesf - WEBSTA"/>
             <outline title="The Booksmith RSS" xmlUrl="http://www.booksmith.com/rss.xml" type="rss" text="The Booksmith RSS"/>
             <outline title="Muni Diaries" xmlUrl="http://www.munidiaries.com/feed/" type="rss" text="Muni Diaries"/>
             <outline title="Bay Area News" xmlUrl="http://www.sfgate.com/bayarea/feed/Bay-Area-News-429.php" type="rss" text="Bay Area News"/>
