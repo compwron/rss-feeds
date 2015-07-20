@@ -9,3 +9,9 @@ Stuff I will figure out how to rss later
 * lafd.org
 * http://www.industriallogic.com/blog/rss
 * http://sirupsen.com/
+* gocardless.com/blog
+* https://www.feedingforward.com/
+* http://blog.foodrunners.org/
+* lyft.com/blog
+* http://blog.lockitron.com
+* https://www.sherpashare.com/sherpa/share
