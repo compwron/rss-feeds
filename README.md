@@ -15,3 +15,4 @@ Stuff I will figure out how to rss later
 * lyft.com/blog
 * http://blog.lockitron.com
 * https://www.sherpashare.com/sherpa/share
+* http://www.hackreactor.com/blog
