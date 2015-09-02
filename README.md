@@ -16,3 +16,5 @@ Stuff I will figure out how to rss later
 * http://blog.lockitron.com
 * https://www.sherpashare.com/sherpa/share
 * http://www.hackreactor.com/blog
+* http://devcenter.wercker.com/ blog.wercker.com
+* http://likescoffee.com/
