@@ -18,3 +18,4 @@ Stuff I will figure out how to rss later
 * http://www.hackreactor.com/blog
 * http://devcenter.wercker.com/ blog.wercker.com
 * http://likescoffee.com/
+* http://glitch.news/index.html
