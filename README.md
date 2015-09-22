@@ -19,3 +19,5 @@ Stuff I will figure out how to rss later
 * http://devcenter.wercker.com/ blog.wercker.com
 * http://likescoffee.com/
 * http://glitch.news/index.html
+* http://www.presidio.gov/Calendar/Pages/default.aspx
+* http://www.exploratorium.edu/visit/calendar
