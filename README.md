@@ -21,3 +21,13 @@ Stuff I will figure out how to rss later
 * http://glitch.news/index.html
 * http://www.presidio.gov/Calendar/Pages/default.aspx
 * http://www.exploratorium.edu/visit/calendar
+* cantonfair.org
+* http://www.chic-robot.com
+* http://www.spingo.com
+* http://www.farallones.org/events/
+* http://www.sfstation.com
+* http://www.medpagetoday.com/
+* http://www.medpagetoday.com/
+* http://jessenoller.com/
+* http://fortifiedbike.com/
+* http://decentsecurity.com/blog/
