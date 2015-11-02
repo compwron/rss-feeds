@@ -31,3 +31,7 @@ Stuff I will figure out how to rss later
 * http://jessenoller.com/
 * http://fortifiedbike.com/
 * http://decentsecurity.com/blog/
+* http://womeninastronomy.blogspot.com/
+* http://christinazhong.com/
+* http://www.codelord.net
+* https://www.androidexperiments.com/
