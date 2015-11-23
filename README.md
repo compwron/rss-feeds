@@ -35,3 +35,7 @@ Stuff I will figure out how to rss later
 * http://christinazhong.com/
 * http://www.codelord.net
 * https://www.androidexperiments.com/
+* http://sockpuppet.org/
+* http://nic.ferrier.me.uk/
+* https://embassynetwork.com
+* https://www.sfmta.com/news
