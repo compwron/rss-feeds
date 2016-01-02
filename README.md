@@ -39,3 +39,7 @@ Stuff I will figure out how to rss later
 * http://nic.ferrier.me.uk/
 * https://embassynetwork.com
 * https://www.sfmta.com/news
+* http://kolbelectric.com/blog/
+* http://www.edwardbeaman.com/
+* http://electricalindustrynetwork.com/
+* http://www.doctordragon.org/
