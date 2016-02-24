@@ -43,3 +43,4 @@ Stuff I will figure out how to rss later
 * http://www.edwardbeaman.com/
 * http://electricalindustrynetwork.com/
 * http://www.doctordragon.org/
+* https://www.opentech.fund/
