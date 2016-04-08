@@ -44,3 +44,4 @@ Stuff I will figure out how to rss later
 * http://electricalindustrynetwork.com/
 * http://www.doctordragon.org/
 * https://www.opentech.fund/
+* http://css.csail.mit.edu/security-seminar/
