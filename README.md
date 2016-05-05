@@ -45,3 +45,6 @@ Stuff I will figure out how to rss later
 * http://www.doctordragon.org/
 * https://www.opentech.fund/
 * http://css.csail.mit.edu/security-seminar/
+* http://www.sfusualsuspects.com/
+* http://www.abettersf.org/
+
