@@ -125,6 +125,7 @@
             <outline title="Ilona Andrews" xmlUrl="http://www.ilona-andrews.com/feed/" type="rss" text="Ilona Andrews"/>
             <outline title="kiostark" xmlUrl="http://www.kiostark.com/feed/" type="rss" text="kiostark"/>
             <outline title="Dr. Jen Gunter" xmlUrl="https://drjengunter.wordpress.com/feed/" type="rss" text="Dr. Jen Gunter"/>
+            <outline title="Thing of Things" xmlUrl="https://thingofthings.wordpress.com/feed/" type="rss" text="Thing of Things"/>
         </outline>
         <outline title="bicycle">
             <outline title="Reinventing The Wheel » Feed" xmlUrl="http://blog.fortifiedbike.com/feed/" type="rss" text="Reinventing The Wheel » Feed"/>
@@ -173,6 +174,7 @@
             <outline title="Literary Hub » Feed" xmlUrl="http://lithub.com/feed/" type="rss" text="Literary Hub » Feed"/>
             <outline title="Local Electrical Services » Feed" xmlUrl="http://localelectricalne.com/feed/" type="rss" text="Local Electrical Services » Feed"/>
             <outline title="Radio Free Meredith" xmlUrl="http://maradydd.livejournal.com/data/rss" type="rss" text="Radio Free Meredith"/>
+            <outline title="Masten Space Systems" xmlUrl="http://masten.dreamhosters.com/feed/" type="rss" text="Masten Space Systems"/>
             <outline title="Modern Fire Behavior » Feed" xmlUrl="http://modernfirebehavior.com/feed/" type="rss" text="Modern Fire Behavior » Feed"/>
             <outline title="Moldbuggery - RSS" xmlUrl="http://moldbuggery.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Moldbuggery - RSS"/>
             <outline title="Mother of All Landlords » Feed" xmlUrl="http://motherofalllandlords.com/feed/" type="rss" text="Mother of All Landlords » Feed"/>
@@ -201,6 +203,7 @@
             <outline title="United Locksmith » Home Comments Feed" xmlUrl="http://united-locksmith.net/home/feed" type="rss" text="United Locksmith » Home Comments Feed"/>
             <outline title="Unqualified Reservations - RSS" xmlUrl="http://unqualified-reservations.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Unqualified Reservations - RSS"/>
             <outline title="Urban kchoze - RSS" xmlUrl="http://urbankchoze.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Urban kchoze - RSS"/>
+            <outline title="Women In Astronomy - RSS" xmlUrl="http://womeninastronomy.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Women In Astronomy - RSS"/>
             <outline title="Woolrich Blog » Feed" xmlUrl="http://woolrich.com/blog/feed/" type="rss" text="Woolrich Blog » Feed"/>
             <outline title="RSS feed for Blog" xmlUrl="http://www.2020shift.com/blog/rss/feeds" type="rss" text="RSS feed for Blog"/>
             <outline title="Accounting in your city feed" xmlUrl="http://www.accountingin.com/feed/" type="rss" text="Accounting in your city feed"/>
@@ -249,6 +252,7 @@
             <outline title="RINA News RSS Feed" xmlUrl="http://www.rina.org.uk/c2/rss/rina_news_rss_feed.xml" type="rss" text="RINA News RSS Feed"/>
             <outline title="scidev global" xmlUrl="http://www.scidev.net/global/global_rss.xml" type="rss" text="scidev global"/>
             <outline title="Software Development &amp; Online Mapping Specialists - Shoothill » Feed" xmlUrl="http://www.shoothill.com/feed/" type="rss" text="Software Development &amp; Online Mapping Specialists - Shoothill » Feed"/>
+            <outline title="SpaceAgenda.com: Upcoming Events" xmlUrl="http://www.spaceagenda.com/rss" type="rss" text="SpaceAgenda.com: Upcoming Events"/>
             <outline title="Still Drinking" xmlUrl="http://www.stilldrinking.org/rss/feed.xml" type="rss" text="Still Drinking"/>
             <outline title="Structure Tech Home Inspections » Feed" xmlUrl="http://www.structuretech1.com/feed/" type="rss" text="Structure Tech Home Inspections » Feed"/>
             <outline title="technology4change - News" xmlUrl="http://www.technology4change.com/rss.jsp" type="rss" text="technology4change - News"/>
@@ -270,6 +274,7 @@
             <outline title="Library Freedom Project RSS Feed" xmlUrl="https://libraryfreedomproject.org/feed/" type="rss" text="Library Freedom Project RSS Feed"/>
             <outline title="UPS" xmlUrl="https://longitudes.ups.com/feed/" type="rss" text="UPS"/>
             <outline title="MissLoreleiLee" xmlUrl="https://medium.com/feed/@MissLoreleiLee" type="rss" text="MissLoreleiLee"/>
+            <outline title="andrewmason" xmlUrl="https://medium.com/feed/@andrewmason" type="rss" text="andrewmason"/>
             <outline title="firstround" xmlUrl="https://medium.com/feed/@firstround" type="rss" text="firstround"/>
             <outline title="healthrosetta" xmlUrl="https://medium.com/feed/@healthrosetta" type="rss" text="healthrosetta"/>
             <outline title="Raj on Medium" xmlUrl="https://medium.com/feed/@matter" type="rss" text="Raj on Medium"/>
@@ -601,6 +606,7 @@
             <outline title="Google" xmlUrl="https://feeds.feedburner.com/blogspot/MKuf" type="rss" text="Google"/>
             <outline title="devo.ps" xmlUrl="https://feeds.feedburner.com/devo/BQLM" type="rss" text="devo.ps"/>
             <outline title="Industrial Logic" xmlUrl="https://feeds2.feedburner.com/IndustrialBlogic" type="rss" text="Industrial Logic"/>
+            <outline title="TED" xmlUrl="https://feeds2.feedburner.com/tedtalks_video/" type="rss" text="TED"/>
             <outline title="Git - Blog" xmlUrl="https://git-scm.com/blog.rss" type="rss" text="Git - Blog"/>
             <outline title="Project Zero - RSS" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Project Zero - RSS"/>
             <outline title="graydon2" xmlUrl="https://graydon2.dreamwidth.org/data/rss" type="rss" text="graydon2"/>
@@ -720,6 +726,7 @@
             <outline title="Leigh Alexander » Feed" xmlUrl="http://leighalexander.net/feed/" type="rss" text="Leigh Alexander » Feed"/>
             <outline title="Lily Lambda" xmlUrl="http://lilylambda.com/rss" type="rss" text="Lily Lambda"/>
             <outline title="luminousalicorn" xmlUrl="http://luminousalicorn.tumblr.com/rss" type="rss" text="luminousalicorn"/>
+            <outline title="Malcolm Ocean » Feed" xmlUrl="http://malcolmocean.com/feed/" type="rss" text="Malcolm Ocean » Feed"/>
             <outline title="blume" xmlUrl="http://michaelblume.tumblr.com/rss" type="rss" text="blume"/>
             <outline title="stupid blog for reblogging shit" xmlUrl="http://ozylikes.tumblr.com/rss" type="rss" text="stupid blog for reblogging shit"/>
             <outline title="ozymandias271" xmlUrl="http://ozymandias271.tumblr.com/rss" type="rss" text="ozymandias271"/>
@@ -727,7 +734,6 @@
             <outline title="The Geekess » Feed" xmlUrl="http://sarah.thesharps.us/feed/" type="rss" text="The Geekess » Feed"/>
             <outline title="Blog - Shana L Moore" xmlUrl="http://shanalmoore.com/blog?format=rss" type="rss" text="Blog - Shana L Moore"/>
             <outline title="People and things" xmlUrl="http://skade.me/rss.rss" type="rss" text="People and things"/>
-            <outline title="Slate Star Codex" xmlUrl="http://slatestarcodex.com/feed/" type="rss" text="Slate Star Codex"/>
             <outline title="Slate Star Scratchpad" xmlUrl="http://slatestarscratchpad.tumblr.com/rss" type="rss" text="Slate Star Scratchpad"/>
             <outline title="SlushPile Hell" xmlUrl="http://slushpilehell.tumblr.com/rss" type="rss" text="SlushPile Hell"/>
             <outline title="SoloPoly" xmlUrl="http://solopoly.net/feed/" type="rss" text="SoloPoly"/>
@@ -761,7 +767,6 @@
             <outline title="OdysseusLives" xmlUrl="https://odysseuslives.github.io//feed.xml" type="rss" text="OdysseusLives"/>
             <outline title="Peter Kropf » Feed" xmlUrl="https://peterkropf.com/feed" type="rss" text="Peter Kropf » Feed"/>
             <outline title="Relentless Dawn » Feed" xmlUrl="https://relentlessdawn.wordpress.com/feed/" type="rss" text="Relentless Dawn » Feed"/>
-            <outline title="Ozy" xmlUrl="https://thingofthings.wordpress.com/feed/" type="rss" text="Ozy"/>
             <outline title="topherhallquist » Feed" xmlUrl="https://topherhallquist.wordpress.com/feed/" type="rss" text="topherhallquist » Feed"/>
             <outline title="Twitter Search / kinkatia " xmlUrl="https://twitrss.me/twitter_user_to_rss/?user=kinkatia&amp;replies=on" type="rss" text="Twitter Search / kinkatia "/>
             <outline title="Unconventional Concepts, Inc." xmlUrl="https://uci2010.wordpress.com/feed/" type="rss" text="Unconventional Concepts, Inc."/>
@@ -771,14 +776,11 @@
             <outline title="The GiveWell Blog » " xmlUrl="http://blog.givewell.org/feed/" type="rss" text="The GiveWell Blog » "/>
             <outline title="Almost No One is Evil. Almost Everything is Broken. » Feed" xmlUrl="http://blog.jaibot.com/?feed=rss2" type="rss" text="Almost No One is Evil. Almost Everything is Broken. » Feed"/>
             <outline title="Cognition and Evolution - RSS" xmlUrl="http://cognitionandevolution.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Cognition and Evolution - RSS"/>
-            <outline title="effective-altruism.com" xmlUrl="http://effective-altruism.com/.rss" type="rss" text="effective-altruism.com"/>
             <outline title="Guía Escéptica » Feed" xmlUrl="http://guiaesceptica.org/feed/" type="rss" text="Guía Escéptica » Feed"/>
             <outline title="lesswrong" xmlUrl="http://lesswrong.com/.rss" type="rss" text="lesswrong"/>
-            <outline title="Malcolm Ocean » Feed" xmlUrl="http://malcolmocean.com/feed/" type="rss" text="Malcolm Ocean » Feed"/>
             <outline title="Minding our way" xmlUrl="http://mindingourway.com/rss/" type="rss" text="Minding our way"/>
             <outline title="Shrink Rap - RSS" xmlUrl="http://psychiatrist-blog.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Shrink Rap - RSS"/>
             <outline title="The Future Primaeval" xmlUrl="http://thefutureprimaeval.net/rss/" type="rss" text="The Future Primaeval"/>
-            <outline title="Whole Health Source - RSS" xmlUrl="http://wholehealthsource.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Whole Health Source - RSS"/>
             <outline title="Optimize Literally Everything" xmlUrl="http://yudkowsky.tumblr.com/rss" type="rss" text="Optimize Literally Everything"/>
             <outline title="The Merely Real » Feed" xmlUrl="https://themerelyreal.wordpress.com/feed/" type="rss" text="The Merely Real » Feed"/>
         </outline>
@@ -810,6 +812,7 @@
             <outline title="Old Urbanist - RSS" xmlUrl="http://oldurbanist.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Old Urbanist - RSS"/>
             <outline title="Quantum Martial Arts | SF » Feed" xmlUrl="http://quantumsf.org/feed/" type="rss" text="Quantum Martial Arts | SF » Feed"/>
             <outline title="Noisebridge" xmlUrl="http://rss.gmane.org/gmane.org.region.san-francisco.noisebridge.announce" type="rss" text="Noisebridge"/>
+            <outline title="senate.ca.gov RSS" xmlUrl="http://senate.ca.gov/rss.xml" type="rss" text="senate.ca.gov RSS"/>
             <outline title="Eater SF" xmlUrl="http://sf.eater.com/rss/index.xml" type="rss" text="Eater SF"/>
             <outline title="Nerd Nite SF RSS Feed" xmlUrl="http://sf.nerdnite.com/feed/" type="rss" text="Nerd Nite SF RSS Feed"/>
             <outline title="Streetsblog SF" xmlUrl="http://sf.streetsblog.org/feed/" type="rss" text="Streetsblog SF"/>
@@ -858,17 +861,12 @@
             <outline title="StarTalk Radio" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss" type="rss" text="StarTalk Radio"/>
             <outline title="The Nano Membrane Toilet Blog" xmlUrl="http://nanomembranetoilet.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="The Nano Membrane Toilet Blog"/>
             <outline title="berkley seismo" xmlUrl="http://seismo.berkeley.edu/blog/seismoblog.php?tempskin=_rss2" type="rss" text="berkley seismo"/>
-            <outline title="Women In Astronomy - RSS" xmlUrl="http://womeninastronomy.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Women In Astronomy - RSS"/>
             <outline title="Explore Mars" xmlUrl="http://www.exploremars.org/feed" type="rss" text="Explore Mars"/>
             <outline title="MedPageToday.com - Latest medical blogs for physicians and healthcare professionals" xmlUrl="http://www.medpagetoday.com/rss/Blogs.xml" type="rss" text="MedPageToday.com - Latest medical blogs for physicians and healthcare professionals"/>
-            <outline title="ORTHOPRENEUR: Empowering Today&amp;#039;s Orthopaedic Surgeon" xmlUrl="http://www.orthopreneurpub.com/component/ninjarsssyndicator/?feed_id=1&amp;format=raw" type="rss" text="ORTHOPRENEUR: Empowering Today&amp;#039;s Orthopaedic Surgeon"/>
             <outline title="Mark Vanhoenacker " xmlUrl="http://www.slate.com/all.fulltext.mark_vanhoenacker.rss" type="rss" text="Mark Vanhoenacker "/>
-            <outline title="TED" xmlUrl="https://feeds2.feedburner.com/tedtalks_video/" type="rss" text="TED"/>
-            <outline title="Science Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow" type="rss" text="Science Podcast"/>
         </outline>
         <outline title="spaceflight">
             <outline title="The Mars Generation » Feed" xmlUrl="http://feeds.feedburner.com/astronautabby/OgIa" type="rss" text="The Mars Generation » Feed"/>
-            <outline title="Masten Space Systems" xmlUrl="http://masten.dreamhosters.com/feed/" type="rss" text="Masten Space Systems"/>
             <outline title="Resources - Asteroid Day » Feed" xmlUrl="http://resources.asteroidday.org/feed/" type="rss" text="Resources - Asteroid Day » Feed"/>
             <outline title="SEDS » Feed" xmlUrl="http://seds.org/feed/" type="rss" text="SEDS » Feed"/>
             <outline title="Astronaut Scott Kelly" xmlUrl="http://stationcdrkelly.tumblr.com/rss" type="rss" text="Astronaut Scott Kelly"/>
@@ -876,7 +874,6 @@
             <outline title="National Space Research and Development Agency RSS" xmlUrl="http://www.nasrda.gov.ng/?q=rss.xml" type="rss" text="National Space Research and Development Agency RSS"/>
             <outline title="Philip Metzger » Feed" xmlUrl="http://www.philipmetzger.com/blog/feed/" type="rss" text="Philip Metzger » Feed"/>
             <outline title="Society of Amateur Radio Astronomers RSS" xmlUrl="http://www.radio-astronomy.org/rss.xml" type="rss" text="Society of Amateur Radio Astronomers RSS"/>
-            <outline title="SpaceAgenda.com: Upcoming Events" xmlUrl="http://www.spaceagenda.com/rss" type="rss" text="SpaceAgenda.com: Upcoming Events"/>
             <outline title="SpaceX Updates" xmlUrl="http://www.spacex.com/news.xml" type="rss" text="SpaceX Updates"/>
             <outline title="News &amp; Press Releases - RSS Feed - United Launch Alliance" xmlUrl="http://www.ulalaunch.com/news-press-rss.aspx?Category=0" type="rss" text="News &amp; Press Releases - RSS Feed - United Launch Alliance"/>
             <outline title="NASA Blogs » Feed" xmlUrl="https://blogs.nasa.gov/feed/" type="rss" text="NASA Blogs » Feed"/>
@@ -895,7 +892,6 @@
             <outline title="Path" xmlUrl="http://blog.path.com/rss" type="rss" text="Path"/>
             <outline title="recruitinganimal podcast" xmlUrl="http://recruitinganimal.typepad.com/recruitinganimal/rss.xml" type="rss" text="recruitinganimal podcast"/>
             <outline title="Groupon Engineering Blog » Groupon Engineering Blog" xmlUrl="https://engineering.groupon.com/feed/" type="rss" text="Groupon Engineering Blog » Groupon Engineering Blog"/>
-            <outline title="andrewmason" xmlUrl="https://medium.com/feed/@andrewmason" type="rss" text="andrewmason"/>
             <outline title="RSS" xmlUrl="https://medium.com/feed/groupon-eng" type="rss" text="RSS"/>
             <outline title="restaurant-x-tech" xmlUrl="https://medium.com/feed/restaurant-x-tech" type="rss" text="restaurant-x-tech"/>
             <outline title="Groupon People Blog » Feed" xmlUrl="https://people.groupon.com/feed/" type="rss" text="Groupon People Blog » Feed"/>
