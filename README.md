@@ -1,4 +1,6 @@
-stuff that I've found around the internet and like to know about
+Stuff that I've found around the internet and like to know about
+
+To import: ``open -a /Applications/Leaf.app/ Leaf\ Subscriptions.xml``
 
 Stuff I will figure out how to rss later
 
