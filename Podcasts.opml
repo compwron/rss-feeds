@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Tue, 24 May 2016 02:54:05 GMT</dateCreated>
+	<dateModified>Tue, 24 May 2016 02:54:05 GMT</dateModified>
+</head>
+<body>
+	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
+	<outline text="JavaScript Jabber" type="rss" xmlUrl="https://feeds.feedwrench.com/JavaScriptJabber.rss" htmlUrl="http://javascriptjabber.com" />
+	<outline text="Ruby5" type="rss" xmlUrl="https://ruby5.codeschool.com/feed.rss" htmlUrl="https://ruby5.codeschool.com/" />
+	<outline text="RubyTapas" type="rss" xmlUrl="http://rubytapas.dpdcart.com/feed" htmlUrl="https://rubytapas.dpdcart.com/subscriber/content" />
+	<outline text="Forum - Sixty Second Idea to Improve the World" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/p02nrvz8/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrvz8" />
+	<outline text="60-Second Tech" type="rss" xmlUrl="http://www.scientificamerican.com/sciam/xml/iTunes.cfm?id=60-second-tech" htmlUrl="http://www.scientificamerican.com/podcast/60-second-tech/" />
+	<outline text="60-Second Mind" type="rss" xmlUrl="http://www.scientificamerican.com/podcast/sciam_podcast_i_psych.xml" htmlUrl="http://www.scientificamerican.com/podcast/60-second-mind/" />
+	<outline text="CERN - Large Hadron Collider Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/LargeHadronColliderPodcast" htmlUrl="http://www.cernpodcast.com/" />
+	<outline text="Betty in the Sky with a Suitcase!" type="rss" xmlUrl="http://betty.libsyn.com/rss" htmlUrl="http://bettyinthesky.com" />
+	<outline text="The Naked Scientists Podcast" type="rss" xmlUrl="http://www.thenakedscientists.com/naked_scientists_podcast.xml" htmlUrl="http://www.thenakedscientists.com" />
+	<outline text="PhysicsCentral: Podcasts" type="rss" xmlUrl="http://feeds.feedburner.com/physicscentral/podcast" htmlUrl="http://www.physicscentral.com" />
+	<outline text="Hubblecast SD" type="rss" xmlUrl="http://feeds.feedburner.com/hubblecast_sd/" htmlUrl="http://www.spacetelescope.org/videos/hubblecast/" />
+	<outline text="MinuteEarth" type="rss" xmlUrl="http://minuteearth.libsyn.com/rss" htmlUrl="http://minuteearth.com" />
+	<outline text="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast" />
+	<outline text="60-Second Science" type="rss" xmlUrl="http://www.scientificamerican.com/podcast/sciam_podcast_i_d.xml" htmlUrl="http://www.scientificamerican.com/podcast/60-second-science/" />
+	<outline text="TEDTalks (audio)" type="rss" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio" htmlUrl="http://www.ted.com/talks/list" />
+	<outline text="The Changelog" type="rss" xmlUrl="https://changelog.com/feed/" htmlUrl="https://changelog.com" />
+	<outline text="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio" htmlUrl="http://www.se-radio.net" />
+	<outline text="a16z" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss" htmlUrl="http://www.a16z.com" />
+	<outline text="DevOps Days Podcast" type="rss" xmlUrl="http://devopsdays.libsyn.com/rss" htmlUrl="http://devopsdays.libsyn.com/podcast" />
+	<outline text="In Tech We Trust Podcast" type="rss" xmlUrl="http://intechwetrustpodcast.com/feed/" htmlUrl="http://intechwetrustpodcast.com/feed/" />
+	<outline text="The Ship Show" type="rss" xmlUrl="http://theshipshow.com/podcast.xml" htmlUrl="http://theshipshow.com/podcast/" />
+	<outline text="Stuff To Blow Your Mind" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-to-blow-your-mind.rss" htmlUrl="http://www.howstuffworks.com/" />
+	<outline text="Stuff You Should Know" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" htmlUrl="http://www.howstuffworks.com/" />
+	<outline text="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.org" />
+	<outline text="Surprisingly Awesome" type="rss" xmlUrl="http://feeds.gimletmedia.com/surprisinglyawesome" htmlUrl="http://soundcloud.com/surprisinglyawesome" />
+	<outline text="ThoughtWorks" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:94605026/sounds.rss" htmlUrl="https://www.thoughtworks.com" />
+	<outline text="Direct Current - An Energy.gov Podcast" type="rss" xmlUrl="http://energy.gov/podcasts/direct-current-energygov-podcast?format=itunes" htmlUrl="http://energy.gov/podcasts/direct-current-energygov-podcast" />
+	<outline text="Invisibilia" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" htmlUrl="http://www.npr.org/programs/invisibilia" />
+	<outline text="Note to Self" type="rss" xmlUrl="http://feeds.wnyc.org/notetoself-podcast" htmlUrl="http://www.wnyc.org/shows/notetoself" />
+	<outline text="Security Now (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/sn.xml" htmlUrl="http://twit.tv/sn" />
+	<outline text="Paul's Security Weekly" type="rss" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl="http://securityweekly.com/" />
+	<outline text="Debug" type="rss" xmlUrl="http://feeds.feedburner.com/debugshow" htmlUrl="http://www.imore.com/debug/" />
+	<outline text="The Recompiler » Podcast" type="rss" xmlUrl="https://recompilermag.com/category/podcast/feed/" htmlUrl="https://recompilermag.com" />
+</body>
+</opml>

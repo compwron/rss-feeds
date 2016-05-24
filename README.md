@@ -49,4 +49,4 @@ Stuff I will figure out how to rss later
 * http://css.csail.mit.edu/security-seminar/
 * http://www.sfusualsuspects.com/
 * http://www.abettersf.org/
-
+* http://yoan-capote.com/
