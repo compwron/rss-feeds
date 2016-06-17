@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Tue, 24 May 2016 02:54:05 GMT</dateCreated>
-	<dateModified>Tue, 24 May 2016 02:54:05 GMT</dateModified>
+	<dateCreated>Fri, 17 Jun 2016 22:59:52 GMT</dateCreated>
+	<dateModified>Fri, 17 Jun 2016 22:59:52 GMT</dateModified>
 </head>
 <body>
 	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
@@ -22,7 +22,7 @@
 	<outline text="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast" />
 	<outline text="60-Second Science" type="rss" xmlUrl="http://www.scientificamerican.com/podcast/sciam_podcast_i_d.xml" htmlUrl="http://www.scientificamerican.com/podcast/60-second-science/" />
 	<outline text="TEDTalks (audio)" type="rss" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio" htmlUrl="http://www.ted.com/talks/list" />
-	<outline text="The Changelog" type="rss" xmlUrl="https://changelog.com/feed/" htmlUrl="https://changelog.com" />
+	<outline text="Changelog" type="rss" xmlUrl="https://changelog.com/feed/" htmlUrl="https://changelog.com" />
 	<outline text="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio" htmlUrl="http://www.se-radio.net" />
 	<outline text="a16z" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss" htmlUrl="http://www.a16z.com" />
 	<outline text="DevOps Days Podcast" type="rss" xmlUrl="http://devopsdays.libsyn.com/rss" htmlUrl="http://devopsdays.libsyn.com/podcast" />
@@ -31,7 +31,7 @@
 	<outline text="Stuff To Blow Your Mind" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-to-blow-your-mind.rss" htmlUrl="http://www.howstuffworks.com/" />
 	<outline text="Stuff You Should Know" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" htmlUrl="http://www.howstuffworks.com/" />
 	<outline text="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.org" />
-	<outline text="Surprisingly Awesome" type="rss" xmlUrl="http://feeds.gimletmedia.com/surprisinglyawesome" htmlUrl="http://soundcloud.com/surprisinglyawesome" />
+	<outline text="Surprisingly Awesome" type="rss" xmlUrl="http://feeds.gimletmedia.com/surprisinglyawesome" htmlUrl="https://gimletmedia.com/show/surprisingly-awesome/" />
 	<outline text="ThoughtWorks" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:94605026/sounds.rss" htmlUrl="https://www.thoughtworks.com" />
 	<outline text="Direct Current - An Energy.gov Podcast" type="rss" xmlUrl="http://energy.gov/podcasts/direct-current-energygov-podcast?format=itunes" htmlUrl="http://energy.gov/podcasts/direct-current-energygov-podcast" />
 	<outline text="Invisibilia" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" htmlUrl="http://www.npr.org/programs/invisibilia" />
@@ -39,6 +39,16 @@
 	<outline text="Security Now (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/sn.xml" htmlUrl="http://twit.tv/sn" />
 	<outline text="Paul's Security Weekly" type="rss" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl="http://securityweekly.com/" />
 	<outline text="Debug" type="rss" xmlUrl="http://feeds.feedburner.com/debugshow" htmlUrl="http://www.imore.com/debug/" />
-	<outline text="The Recompiler » Podcast" type="rss" xmlUrl="https://recompilermag.com/category/podcast/feed/" htmlUrl="https://recompilermag.com" />
+	<outline text="The Recompiler Podcast" type="rss" xmlUrl="https://recompilermag.com/category/podcast/feed/" htmlUrl="https://recompilermag.com" />
+	<outline text="Defensive Security Podcast - Malware, Hacking, Cyber Security &#38; Infosec" type="rss" xmlUrl="http://www.defensivesecurity.org/feed/podcast/" htmlUrl="http://www.defensivesecurity.org" />
+	<outline text="Steptoe Cyberlaw Podcast" type="rss" xmlUrl="http://steptoecyber.libsyn.com/rss" htmlUrl="http://www.steptoecyberblog.com/" />
+	<outline text="Down the Security Rabbithole" type="rss" xmlUrl="http://podcast.wh1t3rabbit.net/rss" htmlUrl="http://blog.wh1t3rabbit.net" />
+	<outline text="Cigital » The Silver Bullet Security Podcast with Gary McGraw" type="rss" xmlUrl="http://feeds.feedburner.com/silverbulletsecurity" htmlUrl="https://www.cigital.com" />
+	<outline text="On The Wire" type="rss" xmlUrl="http://onthewire.jellycast.com/podcast/feed/2" htmlUrl="http://www.pdc.tv/page/Home" />
+	<outline text="In Our Time" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b006qykl" />
+	<outline text="Code Switch" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510312" htmlUrl="http://www.npr.org/sections/codeswitch/" />
+	<outline text="The Bike Shed" type="rss" xmlUrl="https://simplecast.com/podcasts/282/rss" htmlUrl="http://bikeshed.fm" />
+	<outline text="Software Engineering Daily" type="rss" xmlUrl="http://softwareengineeringdaily.com/feed/podcast/" htmlUrl="http://softwareengineeringdaily.com" />
+	<outline text="Hanselminutes" type="rss" xmlUrl="http://feeds.podtrac.com/9dPm65vdpLL1" htmlUrl="http://www.hanselminutes.com" />
 </body>
 </opml>
