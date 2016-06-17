@@ -50,3 +50,4 @@ Stuff I will figure out how to rss later
 * http://www.sfusualsuspects.com/
 * http://www.abettersf.org/
 * http://yoan-capote.com/
+* http://www.fairhotel.org/
