@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Fri, 17 Jun 2016 22:59:52 GMT</dateCreated>
-	<dateModified>Fri, 17 Jun 2016 22:59:52 GMT</dateModified>
+	<dateCreated>Fri, 17 Jun 2016 23:05:03 GMT</dateCreated>
+	<dateModified>Fri, 17 Jun 2016 23:05:03 GMT</dateModified>
 </head>
 <body>
 	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
@@ -50,5 +50,7 @@
 	<outline text="The Bike Shed" type="rss" xmlUrl="https://simplecast.com/podcasts/282/rss" htmlUrl="http://bikeshed.fm" />
 	<outline text="Software Engineering Daily" type="rss" xmlUrl="http://softwareengineeringdaily.com/feed/podcast/" htmlUrl="http://softwareengineeringdaily.com" />
 	<outline text="Hanselminutes" type="rss" xmlUrl="http://feeds.podtrac.com/9dPm65vdpLL1" htmlUrl="http://www.hanselminutes.com" />
+	<outline text="Ham Radio 360" type="rss" xmlUrl="http://hamradio360.com/index.php/feed/podcast/" htmlUrl="http://hamradio360.com" />
+	<outline text="This Week in Radio Tech HD" type="rss" xmlUrl="http://feeds.feedburner.com/ThisWeekInRadioTechVideo" htmlUrl="http://gfqnetwork.com" />
 </body>
 </opml>
