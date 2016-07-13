@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Fri, 17 Jun 2016 23:05:03 GMT</dateCreated>
-	<dateModified>Fri, 17 Jun 2016 23:05:03 GMT</dateModified>
+	<dateCreated>Wed, 13 Jul 2016 03:27:24 GMT</dateCreated>
+	<dateModified>Wed, 13 Jul 2016 03:27:24 GMT</dateModified>
 </head>
 <body>
 	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
@@ -52,5 +52,14 @@
 	<outline text="Hanselminutes" type="rss" xmlUrl="http://feeds.podtrac.com/9dPm65vdpLL1" htmlUrl="http://www.hanselminutes.com" />
 	<outline text="Ham Radio 360" type="rss" xmlUrl="http://hamradio360.com/index.php/feed/podcast/" htmlUrl="http://hamradio360.com" />
 	<outline text="This Week in Radio Tech HD" type="rss" xmlUrl="http://feeds.feedburner.com/ThisWeekInRadioTechVideo" htmlUrl="http://gfqnetwork.com" />
+	<outline text="AWS TechChat" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:228283955/sounds.rss" htmlUrl="http://soundcloud.com/user-684142981" />
+	<outline text="Ops All The Things!" type="rss" xmlUrl="http://opsallthethings.s3-website-us-east-1.amazonaws.com/podcast.xml" htmlUrl="https://www.opsallthethings.com/" />
+	<outline text="Arrested DevOps" type="rss" xmlUrl="http://feeds.podtrac.com/VGAulpN7MY1U" htmlUrl="https://www.arresteddevops.com/" />
+	<outline text="LAX to SAS" type="rss" xmlUrl="http://amtrak.adventgx.com/line_rss.php?line=1&#38;direction=east" htmlUrl="http://www.amtrak.com" />
+	<outline text="Lets Talk Trains" type="rss" xmlUrl="http://www.blogtalkradio.com/letstalktrains/podcast" htmlUrl="http://www.blogtalkradio.com/letstalktrains" />
+	<outline text="Odd Lots" type="rss" xmlUrl="http://www.bloomberg.com/feeds/podcasts/odd_lots.xml" htmlUrl="http://bloomberg.com/podcasts/odd_lots" />
+	<outline text="Sophos Podcasts" type="rss" xmlUrl="http://feeds.podtrac.com/sXqBmsxMrHix" htmlUrl="http://nakedsecurity.sophos.com" />
+	<outline text="SAHAsays" type="rss" xmlUrl="http://justcast.herokuapp.com/shows/steven-bernstein-sahasays/audioposts.rss" htmlUrl="http://satxhackers.org/" />
+	<outline text="The Why Factor" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/p00xtky9/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p00xtky9" />
 </body>
 </opml>
