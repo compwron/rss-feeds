@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Wed, 13 Jul 2016 03:27:24 GMT</dateCreated>
-	<dateModified>Wed, 13 Jul 2016 03:27:24 GMT</dateModified>
+	<dateCreated>Thu, 21 Jul 2016 03:04:21 GMT</dateCreated>
+	<dateModified>Thu, 21 Jul 2016 03:04:21 GMT</dateModified>
 </head>
 <body>
 	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
@@ -61,5 +61,7 @@
 	<outline text="Sophos Podcasts" type="rss" xmlUrl="http://feeds.podtrac.com/sXqBmsxMrHix" htmlUrl="http://nakedsecurity.sophos.com" />
 	<outline text="SAHAsays" type="rss" xmlUrl="http://justcast.herokuapp.com/shows/steven-bernstein-sahasays/audioposts.rss" htmlUrl="http://satxhackers.org/" />
 	<outline text="The Why Factor" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/p00xtky9/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p00xtky9" />
+	<outline text="Revisionist History" type="rss" xmlUrl="http://feeds.feedburner.com/RevisionistHistory" htmlUrl="http://revisionisthistory.com/" />
+	<outline text="Stuff Mom Never Told You" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-mom-never-told-you.rss" htmlUrl="http://www.howstuffworks.com" />
 </body>
 </opml>
