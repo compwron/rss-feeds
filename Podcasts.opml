@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Sat, 06 Aug 2016 00:02:02 GMT</dateCreated>
-	<dateModified>Sat, 06 Aug 2016 00:02:02 GMT</dateModified>
+	<dateCreated>Fri, 19 Aug 2016 17:20:49 GMT</dateCreated>
+	<dateModified>Fri, 19 Aug 2016 17:20:49 GMT</dateModified>
 </head>
 <body>
 	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
@@ -75,5 +75,7 @@
 	<outline text="Immutable" type="rss" xmlUrl="https://simplecast.com/podcasts/1332/rss" htmlUrl="http://spec.fm" />
 	<outline text="Does Not Compute" type="rss" xmlUrl="https://simplecast.com/podcasts/1386/rss" htmlUrl="http://spec.fm/podcasts/does-not-compute" />
 	<outline text="Runtime" type="rss" xmlUrl="https://simplecast.com/podcasts/2070/rss" htmlUrl="http://spec.fm/podcasts/runtime" />
+	<outline text="CodeNewbie" type="rss" xmlUrl="http://codenewbie.blubrry.com/feed/podcast/" htmlUrl="http://codenewbie.blubrry.com" />
+	<outline text="Science Friday" type="rss" xmlUrl="http://www.sciencefriday.com/feed/podcast/podcast-episode" htmlUrl="http://www.sciencefriday.com/" />
 </body>
 </opml>
