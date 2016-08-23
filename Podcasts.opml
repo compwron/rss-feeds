@@ -2,8 +2,8 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Fri, 19 Aug 2016 17:20:49 GMT</dateCreated>
-	<dateModified>Fri, 19 Aug 2016 17:20:49 GMT</dateModified>
+	<dateCreated>Tue, 23 Aug 2016 02:55:29 GMT</dateCreated>
+	<dateModified>Tue, 23 Aug 2016 02:55:29 GMT</dateModified>
 </head>
 <body>
 	<outline text="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss" htmlUrl="https://fivejs.codeschool.com/" />
@@ -77,5 +77,12 @@
 	<outline text="Runtime" type="rss" xmlUrl="https://simplecast.com/podcasts/2070/rss" htmlUrl="http://spec.fm/podcasts/runtime" />
 	<outline text="CodeNewbie" type="rss" xmlUrl="http://codenewbie.blubrry.com/feed/podcast/" htmlUrl="http://codenewbie.blubrry.com" />
 	<outline text="Science Friday" type="rss" xmlUrl="http://www.sciencefriday.com/feed/podcast/podcast-episode" htmlUrl="http://www.sciencefriday.com/" />
+	<outline text="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/" />
+	<outline text="Healthcare Informatics Magazine | Health IT | Information Technology" type="rss" xmlUrl="http://www.healthcare-informatics.com/podcasts" htmlUrl="http://www.healthcare-informatics.com/podcasts" />
+	<outline text="Healthcare Tech Talk- Exploring how technology can help meet the challenges in Healthcare." type="rss" xmlUrl="http://healthtechtalk.libsyn.com/rss" htmlUrl="http://www.healthcaretechtalk.net" />
+	<outline text="The Healthcare Policy Podcast ©  Produced by David Introcaso" type="rss" xmlUrl="http://www.thehealthcarepolicypodcast.com/rss.xml" htmlUrl="http://www.thehealthcarepolicypodcast.com/" />
+	<outline text="New Directions in Health Care" type="rss" xmlUrl="http://www.commonwealthfund.org/rss/new-directions-in-health-care" htmlUrl="http://www.commonwealthfund.org" />
+	<outline text="Pharmacy Podcast Show" type="rss" xmlUrl="http://pharmacytechnology.libsyn.com/rss" htmlUrl="http://www.PharmacyPodcast.com" />
+	<outline text="2 Docs Talk:  Medicine | Health | Healthcare Policy | Evidence Based Medicine" type="rss" xmlUrl="http://2docstalk.libsyn.com/rss" htmlUrl="http://2docstalk.com" />
 </body>
 </opml>
