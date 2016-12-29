@@ -53,3 +53,5 @@ Stuff I will figure out how to rss later
 * http://www.fairhotel.org/
 * http://www.missionstation.org/
 * http://www.studiogallerysf.com/
+* http://www.anishathalye.com/
+* http://www.nickbostrom.com/
