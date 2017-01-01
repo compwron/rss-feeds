@@ -56,3 +56,6 @@ Stuff I will figure out how to rss later
 * http://www.anishathalye.com/
 * http://www.nickbostrom.com/
 * http://www.kofmantechnologies.com/
+* http://resources.infosecinstitute.com/
+* http://www.securitytube.net/
+* https://www.privacytools.io/
