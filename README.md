@@ -60,3 +60,6 @@ Stuff I will figure out how to rss later
 * http://www.securitytube.net/
 * https://www.privacytools.io/
 * http://www.farmfromabox.com/
+* https://deadbird.site/
+* https://theoutline.com
+* https://thecornerstoneforteachers.com/
