@@ -1,6 +1,8 @@
 Stuff that I've found around the internet and like to know about
 
-To import: ``open -a /Applications/Leaf.app/ Leaf\ Subscriptions.xml``
+To import RSS: ``open -a /Applications/Leaf.app/ Leaf\ Subscriptions.xml``
+
+To export podcasts: Go to Podcats Library. File > Library > Export Playlist
 
 Stuff I will figure out how to rss later
 
