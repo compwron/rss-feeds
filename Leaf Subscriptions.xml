@@ -539,6 +539,7 @@
             <outline title="kiostark" xmlUrl="http://www.kiostark.com/feed/" type="rss" text="kiostark"/>
             <outline title="Dr. Jen Gunter" xmlUrl="https://drjengunter.wordpress.com/feed/" type="rss" text="Dr. Jen Gunter"/>
             <outline title="Julia Galef" xmlUrl="https://juliagalef.com/feed/" type="rss" text="Julia Galef"/>
+            <outline title="Meteuphoric » Feed" xmlUrl="https://meteuphoric.wordpress.com/feed/" type="rss" text="Meteuphoric » Feed"/>
             <outline title="Put A Number On It! » Feed" xmlUrl="https://putanumonit.com/feed/" type="rss" text="Put A Number On It! » Feed"/>
             <outline title="Ozy?" xmlUrl="https://thingofthings.wordpress.com/feed/" type="rss" text="Ozy?"/>
             <outline title="Twig » Feed" xmlUrl="https://twigserial.wordpress.com/feed/" type="rss" text="Twig » Feed"/>
@@ -755,6 +756,7 @@
             <outline title="Principia Mission » Home – Principia Mission UK Comments Feed" xmlUrl="https://principia.org.uk/home/feed/" type="rss" text="Principia Mission » Home – Principia Mission UK Comments Feed"/>
             <outline title="RadioMaster Reports » Feed" xmlUrl="https://radiofreeq.wordpress.com/feed/" type="rss" text="RadioMaster Reports » Feed"/>
             <outline title="raphaels7 » Feed" xmlUrl="https://raphaels7.wordpress.com/feed/" type="rss" text="raphaels7 » Feed"/>
+            <outline title="Reports from a Resident Alien » Feed" xmlUrl="https://reportsfromaresidentalien.wordpress.com/feed/" type="rss" text="Reports from a Resident Alien » Feed"/>
             <outline title="Spark Ventures » Feed" xmlUrl="https://sparkventures.org/feed/" type="rss" text="Spark Ventures » Feed"/>
             <outline title="Steve Blank" xmlUrl="https://steveblank.com/feed/" type="rss" text="Steve Blank"/>
             <outline title="Stripe" xmlUrl="https://stripe.com/blog/feed.rss" type="rss" text="Stripe"/>
