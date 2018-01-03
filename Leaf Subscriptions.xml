@@ -273,6 +273,7 @@
             <outline title="Software Engineering Radio - The Podcast for Professional Software Developers" xmlUrl="https://feeds.feedburner.com/se-radio" type="rss" text="Software Engineering Radio - The Podcast for Professional Software Developers"/>
             <outline title="Industrial Logic" xmlUrl="https://feeds2.feedburner.com/IndustrialBlogic" type="rss" text="Industrial Logic"/>
             <outline title="Git - Blog" xmlUrl="https://git-scm.com/blog.rss" type="rss" text="Git - Blog"/>
+            <outline title="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" type="rss" text="Project Zero"/>
             <outline title="Project Zero - RSS" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Project Zero - RSS"/>
             <outline title="graydon2" xmlUrl="https://graydon2.dreamwidth.org/data/rss" type="rss" text="graydon2"/>
             <outline title="Hackbright Academy » Posts Feed" xmlUrl="https://hackbrightacademy.com/blog/feed/" type="rss" text="Hackbright Academy » Posts Feed"/>
